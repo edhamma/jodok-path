@@ -219,8 +219,9 @@ Exercise 15
 2. Make a resolve to obtain steady concentration without consciousness of outside phenomena for 10 muinutes. If this cannot be achieved yet, try again until you are quite experienced. Then practise further for 15-20-30 minutes to 1 hour, one and a half hour, 2-3-4-5-6-7-8 hours, up to 24 hours.
 3. The number of minutes and hours is to be reckoned from the point of steady concentration with nonconsciousness onwards. In such a condition, we do not experience any feeling. The period wished for being fulfilled, consciousness will return of its own accord as in waking, but this is not waking.
 
-Exercise 15
+Exercise 16
 -----------
+
 Practitioners who have become experienced in practice and would like to qualify as future instructors should perform a Special exercise as follows:
 
 **First exercise,** to be done in one day.

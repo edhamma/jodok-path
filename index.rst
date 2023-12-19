@@ -6,8 +6,6 @@ The Path to Nibbāna
 
    .. note:: 
 
-      Phra Dhamma Theerarach Mahamuni (Ajahn Jodok)
-
       This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/cfitness>`__.
 
 
