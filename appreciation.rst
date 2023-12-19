@@ -7,11 +7,11 @@ An appreciation of Phra Dhamma Theerarach Mahamuni and his teachings
 
 (by George D. Bickell)
 
-I first met Phra Dhamma Theerarach Mahamuni in the year 2507 (1964) C.E.), on his first journey to Britain. His first engagement was to participate in the opening of the Sri Lankan Wat and Vihara at Chiswick, his second, to teach at the Viharn in Haverstock Hill.
+I first met Phra Dhamma Theerarach Mahamuni in the year 2507 (1964 C.E.), on his first journey to Britain. His first engagement was to participate in the opening of the Sri Lankan Wat and Vihara at Chiswick, his second, to teach at the Viharn in Haverstock Hill.
 
 There was always a large audience at this venue. It was well situated and the charisma of the incumbent Phra Ananda Bodhi was much appreciated by the people that lived in the locale and also by many professed Buddhists, these already knew that' Buddhism was something to do, not something to believe in, not something just to be told about, not something to just talk about.
 
-The audience were not to be disappointed, in his characteristic manner he immediately started to lecture on the practicalities of purification of knowledge and vision. However some were disappointed for on this occasion the building was overcrowded, so much so, that some people had to be turned away. The fame of Phra Rajasiddhimuni "as Phra Dhamma Theerarach Mahamuni then was", had ensured this.
+The audience were not to be disappointed, in his characteristic manner he immediately started to lecture on the practicalities of purification of knowledge and vision. However some were disappointed for on this occasion the building was overcrowded, so much so, that some people had to be turned away. The fame of Phra Rajasiddhimuni “as Phra Dhamma Theerarach Mahamuni then was”, had ensured this.
 
 This meeting and the others that followed it were a great success, at all hours there was a queue of people on the staircase waiting to give him reports on their meditation experiences, again people had to be turned away lest he be deprived of any opportunity to sleep and rest.
 
@@ -25,7 +25,7 @@ This joy in teaching remained with him to the end of his days and this witness t
 
 The ability to teach and explain and the great pleasure that he displayed when he was doing this, was the result of his own experience, for although he was a great scholar he had transformed his learning into direct experience and was able to transform his experience into simple terminology supported by a deep and profound practical knowledge of the Pali Canon and he knew that with the right guidance others could also experience and understand the same knowing and the number of his successful pupils testifies to the truth of this.
 
-These were great and glorious days for the Dhamma in Britain and whilst much has happened to Buddhism and Buddhists in Britain since, "some good, some bad!", his influence can still be seen there. For when one studies the situation in Britain now, names from that period can still be found that are continuing to spread that which they learned from him.
+These were great and glorious days for the Dhamma in Britain and whilst much has happened to Buddhism and Buddhists in Britain since, “some good, some bad!”, his influence can still be seen there. For when one studies the situation in Britain now, names from that period can still be found that are continuing to spread that which they learned from him.
 
 The following year Wat Buddhapadipa opened its doors to the public, staffed by monks trained by him and the teaching was established in a more orderly manner with Phra Dhamma Theerarach Mahamuni travelling yearly to this and other centres in Europe, guiding and inspiring those that he met, this he continued to do for a number of years until his many duties in Thailand made this impossible but even then old friends and new potential students were always welcomed at section 5 and could and did benefit directly and personally from his vast experience.
 
@@ -43,9 +43,9 @@ It is important that the method is initially learned by a period of intensive pr
 
 This daily and consistent practice alters the quality of life of those that follow it, their minds are alive, alert and not contaminated in the same way as the mind of someone caught up in the usual whirl of worldly conditions and they are therefore in a position to experience insights denied to others. Such practise keeps the mind clean, uses less energy and therefore can make one more efficient in the ordering of mundane matters, this cleanliness of mind is a useful platform from which to enter a meditation centre for a further and perhaps more meaningful period of retreat.
 
-There have also been criticisms, one such being that the method involves unusual behaviour and is therefore unnatural, a brief answer to this would be that if "normal" behaviour has made beings into that which they are, greedy, full of prejudice and delusion the cure must lie in a different mode of behaviour. Certainly the slow walking technique is a contradiction to the usual frenetic behaviour that people engage in and will prove how difficult it is to relax in this age of compulsive competition and aggressiveness.
+There have also been criticisms, one such being that the method involves unusual behaviour and is therefore unnatural, a brief answer to this would be that if “normal” behaviour has made beings into that which they are, greedy, full of prejudice and delusion the cure must lie in a different mode of behaviour. Certainly the slow walking technique is a contradiction to the usual frenetic behaviour that people engage in and will prove how difficult it is to relax in this age of compulsive competition and aggressiveness.
 
-Other critics having not realised the momentary nature of the mind and its innate manner of functioning have based their criticism on their own thinly-disguised but not understood need for a soul theory. These persons endeavour to substitute a watcher for the watching and also try to prove that this phantasm, "the watcher" is being distorted by the practice.
+Other critics having not realised the momentary nature of the mind and its innate manner of functioning have based their criticism on their own thinly-disguised but not understood need for a soul theory. These persons endeavour to substitute a watcher for the watching and also try to prove that this phantasm, “the watcher” is being distorted by the practice.
 
 Some critics have also suggested that the naming or labelling of phenomena is not necessary and is an introduction of mental activity that is unnatural or conceptual, such persons are probably suffering from the ignorance of book information which they believe to be knowledge, not understanding that they are the victims of concepts which are contradictions of knowledge that they could have.
 
@@ -57,9 +57,9 @@ Some of this criticism comes from persons that have tried the practice and have 
 
 One of the problems of psychology is that it only serves cultures it does not serve human beings, the psychologists of each country try to fit the human person into a particular form of society, but the form of every society is ignorance, igorance of the three signs of being and ignorance of the nature of mind and its relationships to matter, or the relationship of mind and mind unless we are to talk about the adepts of advertising who with their ignorance know how to instill craving and hysteria into beings.
 
-All phobia and other recognised mental disorders that are recognized as being antisocial are an over emphasis on a sense of "I" and the western approach to such problems is to attempt to reconcile the patient to his condition, to show the patient causes for the condition and suggest that this way of seeing things changes things, another approach is just to sedate the patient with drugs not words.
+All phobia and other recognised mental disorders that are recognized as being antisocial are an over emphasis on a sense of “I” and the western approach to such problems is to attempt to reconcile the patient to his condition, to show the patient causes for the condition and suggest that this way of seeing things changes things, another approach is just to sedate the patient with drugs not words.
 
-Neither approach can work, for neither the psychiatrist, the psychologist nor the psychotherapist understand that the sense of "I" that is the root cause of these apparent disorders is one that they subscribe to themselves, nor do they realise the distortion that this wrong view can give to perception, or have any experience except in the field of psychosomatics, that mind can and does modify body activity and function.
+Neither approach can work, for neither the psychiatrist, the psychologist nor the psychotherapist understand that the sense of “I” that is the root cause of these apparent disorders is one that they subscribe to themselves, nor do they realise the distortion that this wrong view can give to perception, or have any experience except in the field of psychosomatics, that mind can and does modify body activity and function.
 
 Ignorance of the four noble truths and the three signs of being is the cause of difficulties in relationships that are so common in the west and also for the non acceptance of the status that one has, and it also makes understanding and integrating the various facets of one's personality very difficult and alienation so very common. Practical insight meditation is the only solution to this condition of ignorance.
 
@@ -69,7 +69,7 @@ Pyschosomatic malfunctions of the body can and often do cease under this discipl
 
 Our ignorance of our motivations oppresses others, we manifest it as a selfishness that we label as caring, this selfishness dominates our relationships and is usually encouraged by the demands of family, friends and society, individuals must suffer as a consequence of these attitudes.
 
-Kindness, caring, responsiveness is not kindness, caring and responsiveness if it excludes any person, if it is not available to all, if it is selective and only applied to, my relatives, my friends, my conutrymen, my race, or some other manifestation of "my", then it is not giving, it is not love, it is not caring, it is selfishness, it is greed, it is pride, it is not the result of right views and right effort.
+Kindness, caring, responsiveness is not kindness, caring and responsiveness if it excludes any person, if it is not available to all, if it is selective and only applied to, my relatives, my friends, my conutrymen, my race, or some other manifestation of “my”, then it is not giving, it is not love, it is not caring, it is selfishness, it is greed, it is pride, it is not the result of right views and right effort.
 
 This manner of mental activity makes our worlds small, very small and very vulnerable, such small worlds have no support no foundation for they rest on an illusion of permanence, of self, of separateness and the idea that things can be controlled. These worlds are worlds of suffering and we are this suffering.
 
@@ -85,7 +85,7 @@ The effort cannot be wasted, one cannot be a failure, for even if in the unlikel
 
 For in such a crowded world as we live in, it is important that we endeavour to give to each of us, not only physical space but also mental space and it is when we can help others to progress on the path that we can have a chance to make realistic progress for ourselves. Self interest has never been a part of this teaching for such a self is a delusion.
 
-The gain of others is a gain for each and everyone of us, it is our responsibility to help ourselves by helping others, our resposibility to improve our world by improving the world of all others, giving smiles, small kindnesses, gifts of material comfort and the greatest of all gifts, "Dhamma". We need these in our worlds and that is why we must be able to offer them to others.
+The gain of others is a gain for each and everyone of us, it is our responsibility to help ourselves by helping others, our resposibility to improve our world by improving the world of all others, giving smiles, small kindnesses, gifts of material comfort and the greatest of all gifts, “Dhamma”. We need these in our worlds and that is why we must be able to offer them to others.
 
 There have been and are other teachers of vipassana. Some know some of the words, these can be described as labourers. Some understand some of the words, these can be described as craftsmen. Phra Dhamma Theerarach Mahamuni knew and understood the experience, he was an artist and he expected us to become artists too.
 

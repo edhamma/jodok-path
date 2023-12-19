@@ -48,10 +48,9 @@ We hope that this book will prove useful for those who are interested in practis
 
 We sincerely hope you make progress in your meditation practice.
 
-May all beings be well and happy.
-
-| Vorasak Jandamit
-| Helen Jandamit
+| May all beings be well and happy.
+| **Vorasak Jandamit**
+| **Helen Jandamit**
 | on behalf of the Vipassana Centre at Wat Mahadhatu, Bangkok.
 | 1st November, 1989
 
@@ -67,21 +66,23 @@ Foreword to the 3rd Edition
 
 The Principal Teaching of Lord Buddha comprises three categories: The Study of the Scriptures (Pariyatti Dhamma), the Practice of the Dhamma (Patipatti-Dhamma), and Realization (Pativedha-Dhamma). They depend upon each other. Then they can develop Buddhism in the future.
 
-The Study of the Scriptures refers to the study of the Tipitaka, the Three Collections of the Buddha's Teaching in which are contained morality (Sila), concentration (Samadhti) and Wisdom (Paññā).
+**The Study of the Scriptures** refers to the study of the Tipitaka, the Three Collections of the Buddha's Teaching in which are contained morality (Sila), concentration (Samadhti) and Wisdom (Paññā).
 
-The Practice of the Dhamma is directed towards training in and development of ethical conduct, concentration of mind and intuitive wisdom through the system of Budhist Meditation.
+**The Practice of the Dhamma** is directed towards training in and development of ethical conduct, concentration of mind and intuitive wisdom through the system of Budhist Meditation.
 
-The Stage of Realization being the result of the practice, brings about Enlightenment and Complete Freedom from all forms of mental defilements. This is termed, "Realization" according to the Buddhist sense and aim of life.
+**The Stage of Realization being** the result of the practice, brings about Enlightenment and Complete Freedom from all forms of mental defilements. This is termed, "Realization" according to the Buddhist sense and aim of life.
 
-| The Study of the Scriptures is like a whole coconut.
-| The Practice of the Dhamma is like breaking a coconut.
-| The stage of Realizations is like breaking a coconut and eating all its contents.
+The Study of the Scriptures is like a whole coconut.
+
+The Practice of the Dhamma is like breaking a coconut.
+
+The stage of Realizations is like breaking a coconut and eating all its contents.
 
 All followers should cultivate these three stages so that they will have peace and happiness in present and future lives.
 
 May they all attain the happiness of Nibbana.
 
-| The Ven. Phra Dhamma Theerarach Mahamuni
+| **The Ven. Phra Dhamma Theerarach Mahamuni**
 | Vipassana Meditation Centre,
 | Section 5, Mahadhatu Monastery
 | 9 October 1971
