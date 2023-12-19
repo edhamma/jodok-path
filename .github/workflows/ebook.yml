@@ -9,7 +9,7 @@ jobs:
       - name: Install deps 🛒
         run: |
           # Norasi fonts for Thai
-          sudo apt-get update && sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-luatex fonts-texgyre latexmk font-tlwg-norasi-ttf
+          sudo apt-get update && sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-luatex fonts-texgyre latexmk fonts-tlwg-norasi-ttf
           pip install sphinx sphinxcontrib-fulltoc
       - name: Build E-Books 🔧
         run: |
