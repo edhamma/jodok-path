@@ -176,9 +176,11 @@ latex_elements = {
           \fancyhead{}
           \renewcommand{\headrulewidth}{0pt}
         }
+        \setotherlanguage{thai}
         \makeatother
-        \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+        % \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
         \usepackage[numbered]{bookmark}
+        \iffalse  \let\frontmatter\relax \let\mainmatter\relax \let\backmatter\relax \fi
     ''',
     'fncychap':'',
     'sphinxsetup':r'''
@@ -213,7 +215,7 @@ latex_toplevel_sectioning='chapter'
 man_pages = [
     (master_doc, 'jodok-path', 'The Path to Nibbāna',
      [author], 1)
-]
+] 
 
 
 # -- Options for Texinfo output ----------------------------------------------

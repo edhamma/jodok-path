@@ -1,6 +1,25 @@
 Front
 -------
 
+
+.. hack: abuse code as indication for Thai in LaTeX
+
+.. raw:: latex
+
+   \let\sphinxcode\textthai
+   \newfontfamily\thaifont[Script=Thai]{Norasi}
+
+.. figure:: _static/portrait.jpg
+
+   The Ven. Phra Dhamma Theerarach Mahamuni
+
+   ``พระธรรมธีรราชมหามุนี (โชดก ญาณสิทฺธิเถร ส.ธ.๙)``
+
+   ``พระอาจารย์าใหญ่ฝ่ายวิปัสสนาธุระ``
+
+
+
+
 .. raw:: latex
    
    \setcounter{section}{0}
@@ -22,6 +41,15 @@ Front
 | NINTH EDITION 2014
 
 
+.. admonition:: Electronic edition notice 
+
+   In a few places, obvious erros of the print were corrected. Footnotes with Pali locations were added. Spelling of Pali words was left intact.
+
+
+.. raw:: latex 
+
+   \clearpage
+
 
 Foreword to the English Translation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -34,6 +62,12 @@ This book has been published in 8 editions, during various occasions. This editi
 | Phrakhruvimolthammarangsee
 | Vice-abbot of Mahadhatu Temple
 | Section 5
+
+
+.. raw:: latex 
+
+   \clearpage
+
 
 Translator's Introduction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -54,6 +88,11 @@ We sincerely hope you make progress in your meditation practice.
 | on behalf of the Vipassana Centre at Wat Mahadhatu, Bangkok.
 | 1st November, 1989
 
+
+
+.. raw:: latex 
+
+   \clearpage
 
 
 
@@ -94,9 +133,11 @@ May they all attain the happiness of Nibbana.
    \mainmatter
    % promote sections for the main text
    % (unlike in frontmatter and appendix)
-   \let\subsubsection\subsection
-   \let\subsection\section
-   \let\section\chapter
-   \let\chapter\part
+   \iffalse
+      \let\subsubsection\subsection
+      \let\subsection\section
+      \let\section\chapter
+      \let\chapter\part
+   \fi
 
 

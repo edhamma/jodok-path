@@ -98,24 +98,25 @@ Exercise 6
 ------------
 
 1. While sitting be mindful as follows :
-    a. “Rising, falling, sitting, touching,” that is, touching with the right buttock.
-    b. “Rising, falling, sitting, touching,” that is, touching with the left buttock.
-    c. “Rising, falling, sitting, touching,” that is, touching with the right knee.
-    d. “Rising, falling, sitting, touching,” that is, touching with the left knee.
-    e. “Rising, falling, sitting, touching,” that is, touching with the right ankle,
-    f. “Rising, falling, sitting, touching,” that is, touching with the left ankle.
-    g. “Rising, falling, sitting, touching,” that is, touching at various points along the body.
+
+   a. “Rising, falling, sitting, touching,” that is, touching with the right buttock.
+   b. “Rising, falling, sitting, touching,” that is, touching with the left buttock.
+   c. “Rising, falling, sitting, touching,” that is, touching with the right knee.
+   d. “Rising, falling, sitting, touching,” that is, touching with the left knee.
+   e. “Rising, falling, sitting, touching,” that is, touching with the right ankle,
+   f. “Rising, falling, sitting, touching,” that is, touching with the left ankle.
+   g. “Rising, falling, sitting, touching,” that is, touching at various points along the body.
 
 2. While reclining, acknowledge thus : “Rising, falling, reclining, touching,” etc.
 3. While standing, acknowledge your posture, “Standing, standing”.
 4. While performing the mindful walking, acknowledge the movements :
 
-    a. “Right goes thus, left goes thus,” for about 5-10 minutes.
-    b. “Lifing, treading,” for about 5-10 minutes.
-    c. “Lifing, moving, treading,” for about 5-10 minutes.
-    d. “Heel up lifting, moving, treading,” for about 5-10 minutes.
-    e. “Heel up lifting, moving, dropping treading,” for about 5-10 minutes.
-    f. Now acknowledge a further stage : “Heel up : lifting : moving : dropping : touching : pressing.” for about 10-20 minutes.
+   a. “Right goes thus, left goes thus,” for about 5-10 minutes.
+   b. “Lifing, treading,” for about 5-10 minutes.
+   c. “Lifing, moving, treading,” for about 5-10 minutes.
+   d. “Heel up lifting, moving, treading,” for about 5-10 minutes.
+   e. “Heel up lifting, moving, dropping treading,” for about 5-10 minutes.
+   f. Now acknowledge a further stage : “Heel up : lifting : moving : dropping : touching : pressing.” for about 10-20 minutes.
 
 Exercise 7
 ----------
@@ -226,11 +227,11 @@ Practitioners who have become experienced in practice and would like to qualify 
 
    1. Perform the mindful walking first, then sit as usual and resolve that within one hour the mental and physical states in the process of arising and ceasing shall appear distinctly. Acknowledge ilie awareness, “Rising, falling, sitting, touching”, etc. to complete one full hour. While acknowledging, you will perceive the arising ,md ceasing of the mental and physical states more distinctly than before. This insight knowledge is called Udyabbayanana.
 
-   After this, resolve that within the succeeding hour only mental and physical states in cessation (or in their passing-away) shall be perceived. Then acknowledge the awareness, “Rising, lulling, sitting, touching,” etc. to complete one full hour. While acknowledging, only the passing-away of the mental and physical states will appear, that is, the cessation appears more distinctly than before. This insight is called Bhaṁmganana. XXX
+   2. After this, resolve that within the succeeding hour only mental and physical states in cessation (or in their passing-away) shall be perceived. Then acknowledge the awareness, “Rising, lulling, sitting, touching,” etc. to complete one full hour. While acknowledging, only the passing-away of the mental and physical states will appear, that is, the cessation appears more distinctly than before. This insight is called Bhaṁmganana. XXX
 
 **Second exercise,** to be done in one day.
 
-   l.Perform the mindful walking first, then sit as usual and resolve that within one hour the Bhayañāna shall arise in you. Acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While thus acknowledging, fear will arise in your mind. This insight knowledge is therefore known as Bhayañāna.
+   1. Perform the mindful walking first, then sit as usual and resolve that within one hour the Bhayañāna shall arise in you. Acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While thus acknowledging, fear will arise in your mind. This insight knowledge is therefore known as Bhayañāna.
 
    2. In the succeeding hours, resolve that the Adinavanana shall arise, and acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While acknowledging in the sitting posture, there will arise all kinds of afflictions latent in the mental and physical states, such as pain, aching, impermanence, suffering, and anattā. This knowledge is known Adinavanana.
 
@@ -261,17 +262,17 @@ Practitioners who have become experienced in practice and would like to qualify 
 8. To make people abide in gratitude.
 9. To make people Bhikkhus of the Ariya Sangha, as this practice of Dhamma is for the following attainments :-
 
-    a. To be without the five hindrances (Nivarana)
-    b. To be without the five stands of sensual pleasure (Kamaguna)
-    c. To be without the factors of the “fivefold clinging to existence” (Upādānakakhandha)
-    d. To be without the five lower fetters ; the Ego-illusion (Sakkayaditthi), sceptical doubt (Vicikicchā), attachment (or clinging) to mere rules and ritual (Silabbataparamasa), sensuous desire (Kamachanda) and ill-will (Vyāpada)
-    e. To be free from the 5-fold destinies (gati).
-    f. To be without selfishness in any form ; selfishness in lodgings, selfishness in family, selfishness in property, selfishness in rank and selfishness in Dhamma.
-    g. To be without the five higher fetters, set out as craving for life in the world of pure form (Rūparāga), craving for the formless world (Arūparāga), pride, distraction and ignorance.
-    h. To be without Cetokhila, the five “nails” which limit the mind, comprising doubt in the Buddha the Dhamma and the Sangha, and in the training and anger against one's fellow-monks.
-    i. To be without Cetovinibandha, the five fetters which hinder the mind from making right exertion ; namely : lust for sensuous objects, for the body, for visible things, for eating and sleeping, and leading the monk's life for the sake of heavenly rebirth.
-    j. To be free from sorrow, grief, woe and lamentation and attain the Path, Fruition and Nibbāna.
-    k. The highest blessing is to succeed as an adept or Arahant. Of lower qualifications are the Never Returner (Anagami), the Once Returner (Sakadagami), and the Stream Winner (Sotapana). Still lower down on the scale are the commoners who have a steady determination to go along the path of righteousness according to the principle:
+   a. To be without the five hindrances (Nivarana)
+   b. To be without the five stands of sensual pleasure (Kamaguna)
+   c. To be without the factors of the “fivefold clinging to existence” (Upādānakakhandha)
+   d. To be without the five lower fetters ; the Ego-illusion (Sakkayaditthi), sceptical doubt (Vicikicchā), attachment (or clinging) to mere rules and ritual (Silabbataparamasa), sensuous desire (Kamachanda) and ill-will (Vyāpada)
+   e. To be free from the 5-fold destinies (gati).
+   f. To be without selfishness in any form ; selfishness in lodgings, selfishness in family, selfishness in property, selfishness in rank and selfishness in Dhamma.
+   g. To be without the five higher fetters, set out as craving for life in the world of pure form (Rūparāga), craving for the formless world (Arūparāga), pride, distraction and ignorance.
+   h. To be without Cetokhila, the five “nails” which limit the mind, comprising doubt in the Buddha the Dhamma and the Sangha, and in the training and anger against one's fellow-monks.
+   i. To be without Cetovinibandha, the five fetters which hinder the mind from making right exertion ; namely : lust for sensuous objects, for the body, for visible things, for eating and sleeping, and leading the monk's life for the sake of heavenly rebirth.
+   j. To be free from sorrow, grief, woe and lamentation and attain the Path, Fruition and Nibbāna.
+   k. The highest blessing is to succeed as an adept or Arahant. Of lower qualifications are the Never Returner (Anagami), the Once Returner (Sakadagami), and the Stream Winner (Sotapana). Still lower down on the scale are the commoners who have a steady determination to go along the path of righteousness according to the principle:
 
          *“Iminā pana ñāñanena samannāgato vipassako Buddhasāsane laddhassāsa laddhapatittho niyagatiko jūlasotapanno nama hoti,”* meaning, “When the practitioners who are endowed with wisdom have practised Insight Meditation (Vipassanā), they will succeed as minor Sotāpanas, become light hearted, obtain true refuge in Dhamma and have a steady determination to go along the path of righteousness.”
 

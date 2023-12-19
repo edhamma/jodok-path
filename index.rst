@@ -11,6 +11,7 @@ The Path to Nibbāna
       This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/cfitness>`__.
 
 
+
 .. only:: html
 
    Contents
@@ -31,7 +32,7 @@ The Path to Nibbāna
    front.rst
 
 .. toctree::
-   :numbered:
+   :numbered: 4
 
    path.rst
    practice.rst

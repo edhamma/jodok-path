@@ -1,8 +1,10 @@
 Manual for checking your vipassana kamatthana progress
 ==================================================================
 
+
 Nāmarupa pariccheda Ñana
-------------------------------
+---------------------------
+
 
 In this Ñana or state of wisdom or knowledge, the meditator is able to distinguish NAMA from RUPA For example, he is aware that the rising and falling movements of the abdomen are RUPA and the mind which acknowledges these movements is NAMA. A movement of the foot is RUPA and the consciousness of that movement is NAMA.
 
@@ -15,6 +17,7 @@ The meditator can distinguish between NAMA and RUPA with regard to the five sens
 5. When touching something, whatever is cold, hot, soft or hard to the touch is RUPA and consciousness of the contact is NAMA.
 
 In conclusion, in this Ñana the meditator realizes that the whole body is RUPA and the mind (or consciousness of the sensations of the body) is NAMA. only NAMA and RUPA exist. There is no being, no individual self, no T, no 'he' or 'she' etc. When sitting, the body and its movement are RUPA and awareness of the sitting is NAMA. The act of standing is RUPA and awareness of the standing is NAMA. The act of walking is RUPA and the awareness of the walking is NAMA.
+
 
 Paccaya pariggaha Ñana
 --------------------------
@@ -35,6 +38,7 @@ g. One may be startled sometimes bending forwards or backwards.
 h. The meditator conceives that this existance, the next and all existances only derive from the interaction of cause and effect. They consist of NAMA and RUPA only.
 i. A single rise of the abdomen has two stages.
 
+
 Sammasana Ñana
 -----------------
 
@@ -52,188 +56,209 @@ g. The mind may be distracted which shows that it is aware of the TRILAKKHANA or
 h. The meditator's hands or feet may clench or twitch.
 i. Some of the ten VIPASSANUPAKILESAS (defilements of insight) may appear in this ÑANA.
 
+
 The Ten Vipassanupakilesas
 """""""""""""""""""""""""""
 
-1. OBHASA (Illumination)
+OBHASA (Illumination)
+~~~~~~~~~~~~~~~~~~~~~~~
 
-    The meditator may be aware of the following manifestations of light  :-
-    a. He may be aware of light similar to that of firefly, a torch or a car headlamp.
-    b. The whole room may be lit up sufficiently to enable the meditator to see his body.
-    c. He may be aware of light which seems to pass through the wall.
-    d. There may be a light which enables him to see various places in front of him.
-    e. There may be a bright light as though a door has come open. Some meditators lift up their hands as if to shut it, others open their eyes to see what caused the light.
-    f. A vision of brightly coloured flowers surrounded by light may be seen.
-    g. Miles and miles of sea may be seen.
-    h. Rays of light seem to be emitted from the meditators heart and body.
-    i. Hallucinations, such as seeing an elephant, may occur.
+The meditator may be aware of the following manifestations of light :-
 
-2. PĪTI (Joy or rapture)
-
-   There are five kinds of PITI : KHUDDAKA (minor rapture) ; KHANIKA (momentary joy) ; OKKANTIKA (flood of joy) ; UBBENKA (uplifting joy) ; and PHARANA (pervading rapture).
-
-   1) KHUDDAKA PĪTI (Minor rapture)
-
-      This state is characterized by the following :-
-
-      a. The meditator may be aware of white colour.
-      b. There may be a feeling of coolness or dizziness and the hairs of the body may stand on end.
-      c. Tears may fall and there may be feelings of terror.
-
-   2) KHANIKĀ PĪTI (Momentary joy)
-
-      Characteristics of this Piti include :-
-
-      a. Flashes of light light may be seen.
-      b. Sparks of light may be seen.
-      c. Nervous twitching may occur.
-      d. There may be a feeling of stiffness all over the body.
-      e. There may be a feeling as if ants are climbing over the body.
-      f. The meditator may feel hot all over his body.
-      g. The meditator may shiver.
-      h. Various red colours may be seen.
-      i. Body hair may rise slightly.
-      j. The meditator may feel itchy as if ants are scrambling on his face and body.
-
-   3) OKKANTIKA PĪTI (Flood of joy)
-
-      Characteristics of this Piti include :-
-
-      a. The body may shake and tremble.
-      b. The face, hands and feet may twitch
-      c. There may be violent shaking as if the bed is going to turn upside down.
-      d. Nausea and at times actual vomiting occurs.
-      e. There may be a rhythmic feeling like waves breaking on the shore.
-      f. Ripples of energy may seem to flow over the body.
-      g. The body may vibrate like a stick which is fixed in a flowing stream.
-      h. A light yellow colour may be observed.
-      i. The body may bend to and fro.
-
-   4) UBBENKA PĪTI (Uplifting joy)
-
-      Characteristics of this Piti include  :-
-
-      a. The body feels as if it is extending or moving upwards.
-      b. There may be a feeling as though lice are climbing on the face and body.
-      c. Diarrhea may occur.
-      d. The body may bend forwards or backwards.
-      e. One may feel that one's head has been moved backwards and forwards by somebody.
-      f. There may be a chewing movement with the mouth either open or closed.
-      g. The body sways like a tree being blown by the wind,
-      h. The body bends forwards and may fall down.
-      i. There may be fidgeting movements of the body,
-      j. There may be jumping movements of the body,
-      k. Arms and legs may be raised or may twitch.
-      l. The body may be bent forwards or may recline,
-      m. A silvery grey colour may be observed.
-
-   5) PHARANA PĪTI (Pervading rapture)
-
-      Characteristics of this Piti include :-
-
-      a. A feeling of coldness spreads through the body.
-      b. Peace of mind sets in occasionally.
-      c. There may be itchy feelings all over the body.
-      d. There may be drowsy feelings and the meditator may not wish to open his eyes.
-      e. The meditator has no wish to move.
-      f. There may be a flushing sensation from feet to head or vice versa.
-      g. The body may feel cool as if taking a bath or touching ice.
-      h. The meditator may see blue or emerald green colours,
-      i. An itchy feeling as though lice are crawling on the face may occur.
-
-   This is the end of the description of the five Pitis.
-
-3. PASSADHI
-
-   The third defilement of Vipassana is PASSADHI which means tranquility or mental factors and consciousness. It is characterized as follows :-
-
-   a. There may be a quiet, peaceful state resembling the attainment of insight,
-   b. There will be no restlessness or mental rambling.
-   c. Mindful acknowledgement is easy.
-   d. The meditator feels comfortably cool and does not fidget.
-   e. The meditator feels satisfied with his powers of acknowledgement.
-   f. There may be a feeling similar to falling asleep.
-   g. There may be a feeling of lightness.
-   h. Concentration is good and there is no forgetfulness.
-   i. Thoughts are quite clear.
-   j. A cruel, harsh or merciless person will realize that the Dhamma is profound. As a result he will give up doing bad and will perform only good actions instead.
-   k. A criminal or a drunkard will be able to give up bad habits and will change into quite a different man.
-
-4. SUKHA
-
-   The fourth defilement of Vipassana is SUKHA which means bliss and has the following characteristics :-
-
-   a. There may be a feeling of comfort.
-   b. Due to pleasant feelings the meditator may not wish to stop but continue practising for a long time.
-   c. The meditator may wish to tell other people of the results which he has already gained,
-   d. The meditator may feel immeasurably proud and happy.
-   e. Some say that they have never known such happiness.
-   f. Some feel deeply grateful to their teachers.
-   g. Some meditators feel that their teacher is at hand to give help.
-
-5. SADDHĀ
-
-   The next defilement of Vipassana is SADDHA which is defined as fervour, resolution or determination and has the following SADDHA characteristics  :-
-
-   a. The practitioner may have too much faith.
-   b. He may wish everybody to practice Vipassana.
-   c. He may wish to persuade those he comes in contact with to practice.
-   d. He may wish to repay the meditation centre for its benefaction.
-   e. The meditator may wish to accelerate and deepen his practice.
-   f. He may wish to perform meritorious deeds, give alms and build and repair Buddhist buildings and artifacts.
-   g. He may feel grateful to the person who persuaded him to practice.
-   h. He may wish to give offerings to his teacher.
-   i. A meditator may wish to be ordained as a Buddhist monk,
-   j. He may not wish to stop practicing.
-   k. He might wish to go and stay in a quiet, peaceful place.
-   l. The meditator may decide to practice whole-heartedly.
-
-6. PAGGAHA
-
-   The next defilement of Vipassana is PAGGAHA which means exertion or strenuousness and is defined as follows  :-
-
-   a. Sometimes the meditator may practice too strenuously.
-   b. He may intend to practice rigorously, even unto death.
-   c. The meditator over exerts himself so that attentiveness and clear-consciousness are weak causing distraction and lack of Samadhi (concentration)
-
-7. UPATTHANA
-
-   which means mindfulness, is the next defilement of Vipassana to be considered and it is characterized by the following :-
-
-   a. Sometimes excessive concentration upon thought causes the meditator to leave acknowledgement of the present and inclines him to think of the past and the future,
-   b. The meditator may be unduly concerned with happenings which took place in the past.
-   c. The meditator may have vague recollections of past lives.
-
-8. ÑANA
-
-   The next (Vipassanupakilesa) to be considered is NANA which means knowledge and is defined as follows :-
-
-   a. Theoretical knowledge may become confused with practice. The meditator misunderstands but thinks that he is right. He may become fond of ostentatiousness and like contending with his teacher.
-   b. A meditator may make comments about various objects. For example when the abdomen rises he may say 'arising' and when it falls he may say 'ceasing'.
-   c. The meditator may consider various principles which he knows or has studied.
-   d. The present cannot be grasped. Usually it is 'thinking' which fills up the mind. This may be referred to as 'thought-based knowledge.' Jinta Ñana.
-
-9. UPEKKHÂ
-
-   The ninth defilement of Vipassana is UPEKKHA which has the meaning of not caring or indifference.... It can be defined as follows :-
-
-   a. The mind of the meditator is indifferent, neither pleased or, displeased, nor forgetful. The rising and falling of the abdomen is indistinct and at times imperceptible.
-   b. The meditator is unmindful, at times thinking of nothing in particular.
-   c. The rising and falling of the abdomen may be intermittently perceptible.
-   d. The mind is undisturbed and peaceful.
-   e. The meditator is indifferent to bodily needs.
-   f. The meditator is unaffected when in contact with either good or bad objects. Mindful acknowledgement is disregarded and attention is allowed to follow exterior objects to a great extent.
+a. He may be aware of light similar to that of firefly, a torch or a car headlamp.
+b. The whole room may be lit up sufficiently to enable the meditator to see his body.
+c. He may be aware of light which seems to pass through the wall.
+d. There may be a light which enables him to see various places in front of him.
+e. There may be a bright light as though a door has come open. Some meditators lift up their hands as if to shut it, others open their eyes to see what caused the light.
+f. A vision of brightly coloured flowers surrounded by light may be seen.
+g. Miles and miles of sea may be seen.
+h. Rays of light seem to be emitted from the meditators heart and body.
+i. Hallucinations, such as seeing an elephant, may occur.
 
 
-10. NIKANTI
+PĪTI (Joy or rapture)
+~~~~~~~~~~~~~~~~~~~~~~~
 
-   The tenth Vipassanupakilesa is NIKANTI which means 'gratification' and it has the following characteristics :-
+There are five kinds of PITI : KHUDDAKA (minor rapture) ; KHANIKA (momentary joy) ; OKKANTIKA (flood of joy) ; UBBENKA (uplifting joy) ; and PHARANA (pervading rapture).
 
-   a. The meditator finds satisfaction in various objects.
-   b. He is satisfied with light, joy, happiness, faith, exertion, knowledge and even-mindedness.
-   c. He is satisfied with various Nimittas (mental images).
+1) KHUDDAKA PĪTI (Minor rapture)
 
-That is the end of the section dealing with the ten Vipassanupakilesas.
+   This state is characterized by the following :-
+
+   a. The meditator may be aware of white colour.
+   b. There may be a feeling of coolness or dizziness and the hairs of the body may stand on end.
+   c. Tears may fall and there may be feelings of terror.
+
+2) KHANIKĀ PĪTI (Momentary joy)
+
+   Characteristics of this Piti include :-
+
+   a. Flashes of light light may be seen.
+   b. Sparks of light may be seen.
+   c. Nervous twitching may occur.
+   d. There may be a feeling of stiffness all over the body.
+   e. There may be a feeling as if ants are climbing over the body.
+   f. The meditator may feel hot all over his body.
+   g. The meditator may shiver.
+   h. Various red colours may be seen.
+   i. Body hair may rise slightly.
+   j. The meditator may feel itchy as if ants are scrambling on his face and body.
+
+3) OKKANTIKA PĪTI (Flood of joy)
+
+   Characteristics of this Piti include :-
+
+   a. The body may shake and tremble.
+   b. The face, hands and feet may twitch
+   c. There may be violent shaking as if the bed is going to turn upside down.
+   d. Nausea and at times actual vomiting occurs.
+   e. There may be a rhythmic feeling like waves breaking on the shore.
+   f. Ripples of energy may seem to flow over the body.
+   g. The body may vibrate like a stick which is fixed in a flowing stream.
+   h. A light yellow colour may be observed.
+   i. The body may bend to and fro.
+
+4) UBBENKA PĪTI (Uplifting joy)
+
+   Characteristics of this Piti include  :-
+
+   a. The body feels as if it is extending or moving upwards.
+   b. There may be a feeling as though lice are climbing on the face and body.
+   c. Diarrhea may occur.
+   d. The body may bend forwards or backwards.
+   e. One may feel that one's head has been moved backwards and forwards by somebody.
+   f. There may be a chewing movement with the mouth either open or closed.
+   g. The body sways like a tree being blown by the wind,
+   h. The body bends forwards and may fall down.
+   i. There may be fidgeting movements of the body,
+   j. There may be jumping movements of the body,
+   k. Arms and legs may be raised or may twitch.
+   l. The body may be bent forwards or may recline,
+   m. A silvery grey colour may be observed.
+
+5) PHARANA PĪTI (Pervading rapture)
+
+   Characteristics of this Piti include :-
+
+   a. A feeling of coldness spreads through the body.
+   b. Peace of mind sets in occasionally.
+   c. There may be itchy feelings all over the body.
+   d. There may be drowsy feelings and the meditator may not wish to open his eyes.
+   e. The meditator has no wish to move.
+   f. There may be a flushing sensation from feet to head or vice versa.
+   g. The body may feel cool as if taking a bath or touching ice.
+   h. The meditator may see blue or emerald green colours,
+   i. An itchy feeling as though lice are crawling on the face may occur.
+
+*This is the end of the description of the five Pitis.*
+
+
+PASSADHI
+~~~~~~~~~~
+
+The third defilement of Vipassana is PASSADHI which means tranquility or mental factors and consciousness. It is characterized as follows :-
+
+a. There may be a quiet, peaceful state resembling the attainment of insight,
+b. There will be no restlessness or mental rambling.
+c. Mindful acknowledgement is easy.
+d. The meditator feels comfortably cool and does not fidget.
+e. The meditator feels satisfied with his powers of acknowledgement.
+f. There may be a feeling similar to falling asleep.
+g. There may be a feeling of lightness.
+h. Concentration is good and there is no forgetfulness.
+i. Thoughts are quite clear.
+j. A cruel, harsh or merciless person will realize that the Dhamma is profound. As a result he will give up doing bad and will perform only good actions instead.
+k. A criminal or a drunkard will be able to give up bad habits and will change into quite a different man.
+
+
+SUKHA
+~~~~~~~
+
+The fourth defilement of Vipassana is SUKHA which means bliss and has the following characteristics :-
+
+a. There may be a feeling of comfort.
+b. Due to pleasant feelings the meditator may not wish to stop but continue practising for a long time.
+c. The meditator may wish to tell other people of the results which he has already gained,
+d. The meditator may feel immeasurably proud and happy.
+e. Some say that they have never known such happiness.
+f. Some feel deeply grateful to their teachers.
+g. Some meditators feel that their teacher is at hand to give help.
+
+
+SADDHĀ
+~~~~~~~~
+
+The next defilement of Vipassana is SADDHA which is defined as fervour, resolution or determination and has the following SADDHA characteristics  :-
+
+a. The practitioner may have too much faith.
+b. He may wish everybody to practice Vipassana.
+c. He may wish to persuade those he comes in contact with to practice.
+d. He may wish to repay the meditation centre for its benefaction.
+e. The meditator may wish to accelerate and deepen his practice.
+f. He may wish to perform meritorious deeds, give alms and build and repair Buddhist buildings and artifacts.
+g. He may feel grateful to the person who persuaded him to practice.
+h. He may wish to give offerings to his teacher.
+i. A meditator may wish to be ordained as a Buddhist monk,
+j. He may not wish to stop practicing.
+k. He might wish to go and stay in a quiet, peaceful place.
+l. The meditator may decide to practice whole-heartedly.
+
+
+PAGGAHA
+~~~~~~~~
+
+The next defilement of Vipassana is PAGGAHA which means exertion or strenuousness and is defined as follows  :-
+
+a. Sometimes the meditator may practice too strenuously.
+b. He may intend to practice rigorously, even unto death.
+c. The meditator over exerts himself so that attentiveness and clear-consciousness are weak causing distraction and lack of Samadhi (concentration)
+
+
+UPATTHANA
+~~~~~~~~~~~~
+
+which means mindfulness, is the next defilement of Vipassana to be considered and it is characterized by the following :-
+
+a. Sometimes excessive concentration upon thought causes the meditator to leave acknowledgement of the present and inclines him to think of the past and the future,
+b. The meditator may be unduly concerned with happenings which took place in the past.
+c. The meditator may have vague recollections of past lives.
+
+
+ÑANA
+~~~~~~
+
+The next (Vipassanupakilesa) to be considered is NANA which means knowledge and is defined as follows :-
+
+a. Theoretical knowledge may become confused with practice. The meditator misunderstands but thinks that he is right. He may become fond of ostentatiousness and like contending with his teacher.
+b. A meditator may make comments about various objects. For example when the abdomen rises he may say 'arising' and when it falls he may say 'ceasing'.
+c. The meditator may consider various principles which he knows or has studied.
+d. The present cannot be grasped. Usually it is 'thinking' which fills up the mind. This may be referred to as 'thought-based knowledge.' Jinta Ñana.
+
+
+UPEKKHÂ
+~~~~~~~~
+
+The ninth defilement of Vipassana is UPEKKHA which has the meaning of not caring or indifference.... It can be defined as follows :-
+
+a. The mind of the meditator is indifferent, neither pleased or, displeased, nor forgetful. The rising and falling of the abdomen is indistinct and at times imperceptible.
+b. The meditator is unmindful, at times thinking of nothing in particular.
+c. The rising and falling of the abdomen may be intermittently perceptible.
+d. The mind is undisturbed and peaceful.
+e. The meditator is indifferent to bodily needs.
+f. The meditator is unaffected when in contact with either good or bad objects. Mindful acknowledgement is disregarded and attention is allowed to follow exterior objects to a great extent.
+
+
+NIKANTI
+~~~~~~~~~
+
+The tenth Vipassanupakilesa is NIKANTI which means 'gratification' and it has the following characteristics :-
+
+a. The meditator finds satisfaction in various objects.
+b. He is satisfied with light, joy, happiness, faith, exertion, knowledge and even-mindedness.
+c. He is satisfied with various Nimittas (mental images).
+
+*That is the end of the section dealing with the ten Vipassanupakilesas.*
+
 
 Udayabbaya Ñana
 -----------------
@@ -254,6 +279,7 @@ h. While sitting, the body may bend either forwards or backwards as though falli
    3. If the rising and falling of the abdomen becomes stiff and impeded and then ceases, Dukka (suffering) is clearly revealed, but Anicca and Anatta continue.
 
 If the meditator has good concentration, Samadhi, he may experience a ceasing of breath at frequent intervals. He may feel as if he is falling into an abyss or going through an air pocket on a plane, but in fact the body remains motionless.
+
 
 Bhanga Ñana
 ------------
@@ -465,12 +491,17 @@ Phalasamapati means seeing the result of the path which you have gained. You can
 .. raw:: latex
 
    \appendix
-   % move PDF bookmarks to the top leve
+   % move PDF bookmarks to the top level
    \bookmarksetup{startatroot}
    % demote sections again, same as in frontmatter
-   \let\part\chapter
-   \let\chapter\section
-   \let\section\subsection
-   \let\subsection\subsubsection
+   %\let\part\chapter
+   %\let\chapter\section
+   %\let\section\subsection
+   %\let\subsection\subsubsection
+   
+   %\makeatletter
+   %\patchcmd{\@chapter}{\addcontentsline{toc}{chapter}}{\addcontentsline{toc}{part}}{}{}
+   %\patchcmd{\@chapter}{\addcontentsline{toc}{chapter}}{\addcontentsline{toc}{part}}{}{}
+   %\makeatother
 
 
