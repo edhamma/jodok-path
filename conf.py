@@ -86,7 +86,7 @@ html_theme = 'alabaster'
 # documentation.
 #
 html_theme_options = {
-    'github_user':'eudoxos',
+    'github_user':'edhamma',
     'github_repo':'jodook-path',
     'github_banner':'true',
     # 'fixed_sidebar':'true',
@@ -135,7 +135,7 @@ latex_maketitle=r'''
                 to Nibbāna}\\[4\baselineskip]
                 {\Large\emph{Phra Dhamma Theerarach Mahamuni \\ (Ajahn Jodok)}}\par
                 \vfill % space{0.3\textheight}
-                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/eudoxos/jodok-path}{github.com/eudoxos/jodok-path}.
+                Other formats (PDF, HTML, ePub, …) available from \href{https://github.com/edhamma/jodok-path}{github.com/edhamma/jodok-path}.
                 \\[\baselineskip]
                 {\noindent This e-book is a community effort. If you spot an error in the text (such as misspelled word), go to the address above and report or (if you have the skill) fix it. Thanks!}
                 \\[\baselineskip]

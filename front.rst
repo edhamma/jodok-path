@@ -99,9 +99,9 @@ We sincerely hope you make progress in your meditation practice.
 Foreword to the 3rd Edition
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| *Dhammo have rakkhati dhaṃmacāriṃ chattaṃ mahanthaṃ viya vassakāle.*
+  *Dhammo have rakkhati dhaṃmacāriṃ chattaṃ mahanthaṃ viya vassakāle.* [#f1]_
 
-| The Dhamma shelters the Dhamma-followers like a Great umbrella in the rainy season.
+  The Dhamma shelters the Dhamma-followers like a Great umbrella in the rainy season.
 
 The Principal Teaching of Lord Buddha comprises three categories: The Study of the Scriptures (Pariyatti Dhamma), the Practice of the Dhamma (Patipatti-Dhamma), and Realization (Pativedha-Dhamma). They depend upon each other. Then they can develop Buddhism in the future.
 
@@ -126,6 +126,8 @@ May they all attain the happiness of Nibbana.
 | Section 5, Mahadhatu Monastery
 | 9 October 1971
 
+
+.. [#f1] Nettippakaraṇapāḷi, Paṭi­niddesa­vāra, Vibhaṅga 6 (`online <https://dhammatalks.net/suttacentral/sc2016/sc/pi/ne9.html>`__).
 
 .. raw:: latex
 

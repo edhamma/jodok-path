@@ -6,7 +6,7 @@ The Path to Nibbāna
 
    .. note:: 
 
-      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/eudoxos/cfitness>`__.
+      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/edhamma/cfitness>`__.
 
 
 
