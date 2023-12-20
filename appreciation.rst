@@ -1,11 +1,7 @@
 An appreciation of Phra Dhamma Theerarach Mahamuni and his teachings
 =====================================================================
 
-.. An appreciation of
-.. Phra Dhamma Theerarach Mahamuni
-.. and his teachings,
-
-(by George D. Bickell)
+*(by George D. Bickell)*
 
 I first met Phra Dhamma Theerarach Mahamuni in the year 2507 (1964 C.E.), on his first journey to Britain. His first engagement was to participate in the opening of the Sri Lankan Wat and Vihara at Chiswick, his second, to teach at the Viharn in Haverstock Hill.
 

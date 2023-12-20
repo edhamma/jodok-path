@@ -1,5 +1,5 @@
-Passing away
-=============
+Announcement of Passing Away
+=============================
 
 It is with great sorrow that
 

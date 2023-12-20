@@ -9,7 +9,7 @@ Exercise 1
 3. While standing, acknowledge the posture “Standing standing.”
 4. While performing the mindful walking, acknowledge in stages as follows:
 
-   When the right foot advances, acknowledge the movement, “Right goes thus,“ keeping the eyes fixed on the tip of the right foot; when the left foot advances, acknowledge the movement, ”Left goes thus“, keeping the eyes fixed on the tip of the left foot. Acknowledge every step in this way. Having traversed the space allowed for the mindful walk and wishing to turn back, stand still first, acknowledge the posture, ”standing, standing'“ then turn back slowly and composedly, and acknowledge the movement ”turning, turning.“ Having turned right round, stand still first, acknowledging”standing, standing“, then continue to walk mindfully, acknowledging movements as before.
+   When the right foot advances, acknowledge the movement, “Right goes thus,” keeping the eyes fixed on the tip of the right foot; when the left foot advances, acknowledge the movement, “Left goes thus”, keeping the eyes fixed on the tip of the left foot. Acknowledge every step in this way. Having traversed the space allowed for the mindful walk and wishing to turn back, stand still first, acknowledge the posture, “standing, standing'” then turn back slowly and composedly, and acknowledge the movement “turning, turning.” Having turned right round, stand still first, acknowledging “standing, standing”, then continue to walk mindfully, acknowledging movements as before.
 
 Practise each exercise until you are well experienced in it and can achieve good concentration, then pass on to the next one.
 
@@ -20,12 +20,12 @@ Exercise 2
 1. While sitting, acknowledge the awareness in three stages, viz:- “Rising : falling : sitting.”
 2. While reclining, also acknowledge awareness in similar stages. (See Note below).
 3. While standing, acknowledge your posture, “standing, standing”, until you walk or sit down.
-4. While walking mindfully, perform Exercise 1 for about 10-30 minutes. Then change your acknowledgement of the movement, i.e. when you advance your right or left foot, acknowledge the movement in two stages, “Lifting, Treading”, for about 10-30 minutes.
+4. While walking mindfully, perform Exercise 1 for about 10–30 minutes. Then change your acknowledgement of the movement, i.e. when you advance your right or left foot, acknowledge the movement in two stages, “Lifting, Treading”, for about 10–30 minutes.
 
 **Thus:**
 
-    a. Acknowledge your movements while performing the mindful walk, “Right goes thus, left goes thus,” for about 10-30 minutes.
-    b. Acknowledge your movements while performing the mindful walk, “Lifting, Treading,” for about 10-30 minutes.
+    a. Acknowledge your movements while performing the mindful walk, “Right goes thus, left goes thus,” for about 10–30 minutes.
+    b. Acknowledge your movements while performing the mindful walk, “Lifting, Treading,” for about 10–30 minutes.
 
 .. note:: (For this 2nd exercise concentrate, if only momentarily, on the postures until the images of sitting and reclining appear distinctly in your mind as if reflected in a mirror)
 
@@ -33,9 +33,9 @@ Exercise 2
 
    Sometimes, the abdomenal movements are not clearly recognized; when this happens it is useful to be mindful of “sitting” as soon as the awareness of “falling” has ceased or has become indistinct. The length of “falling” often varies; some examples may make the problem of acknowledgement clearer: e.g.
 
-   (1) 	“Rising……… : falling……… : sitting……… : rising……… : falling……… : sitting………“ and so on.
-   (2)	“Rising……… : rising…. : falling… falling… : sitting… : rising… “
-   (3) 	“Rising………: rising……. : falling… falling… : falling… sitting… sitting… : rising…“
+   (1) 	“Rising……… : falling……… : sitting……… : rising……… : falling……… : sitting………” and so on.
+   (2)	“Rising……… : rising…. : falling… falling… : sitting… : rising…”
+   (3) 	“Rising………: rising……. : falling… falling… : falling… sitting… sitting… : rising…”
 
 **Explanation:** Each word above (e.g. “rising”, “falling”) represents one's acknowledgement; that is mentally saying the word. The dots(……) represent one's awareness or mindfulness of the particular phenomenon. When awareness of one stage (such as rising) ceases (i.e. “Rising…”) acknowledgement and awareness of the next stage begins (e.g. “sitting…”).
 
@@ -45,13 +45,13 @@ Exercise 3
 1. While sitting, acknowledge awareness in four stages, “Rising : falling : sitting : touching.” Meditate upon the touching point as a circle about the size of tical coin ( a penny). Fix your mind -on that point while acknowledging.
 2. While reclining, give acknowledgement in four stages, “Rising : falling : reclining : touching.”
 3. While standing, acknowledge your posture, “standing, standing”.
-4. While performing the mindful walking, do Exercise 1 and 2 first for about 10-20 minutes each; then change the acknowledgement, and while advancing your right or left foot, acknowledge the movement in three stages, viz, “Lifting, moving, treading.”
+4. While performing the mindful walking, do Exercise 1 and 2 first for about 10–20 minutes each; then change the acknowledgement, and while advancing your right or left foot, acknowledge the movement in three stages, viz, “Lifting, moving, treading.”
 
 That is :
 
-a. Acknowledge the movement of your feet, “Right goes thus, left goes thus,” for about 10-20 minutes.
-b. Acknowledge “Lifting, treading,” for about 10-20 minutes.
-c. Acknowledge, Lifting, moving, treading,“ for about 10-20 minutes.
+a. Acknowledge the movement of your feet, “Right goes thus, left goes thus,” for about 10–20 minutes.
+b. Acknowledge “Lifting, treading,” for about 10–20 minutes.
+c. Acknowledge “Lifting, moving, treading,” for about 10–20 minutes.
 
 Exercise 4
 ------------
@@ -59,14 +59,14 @@ Exercise 4
 1. While sitting, acknowledge the rising and falling of the abdomen in four stages : “Rising, falling, sitting, touching”, as in Exercise 3, but now acknowledge, “Touching” several times (until the end of the out-going breath); i.e. “Rising, falling, touching, touching, etc.”
 2. While reclining, acknowledge awareness in four stages, “Rising, falling, reclining, touching, touching, etc.“
 3. While standing acknowledge your posture, “Standing standing.”
-4. While performing the mindful walking, do as in Exercise 1,2, and 3 for about 10-20 minutes each, and then change the acknowledgement, i.e. while advancing with your right or left foot, acknowledge the movement in four stages, “Heel up : lifting : moving : treading,” for about 10-20 minutes
+4. While performing the mindful walking, do as in Exercise 1,2, and 3 for about 10–20 minutes each, and then change the acknowledgement, i.e. while advancing with your right or left foot, acknowledge the movement in four stages, “Heel up : lifting : moving : treading,” for about 10–20 minutes
 
 That is:
 
-a. Acknowledge the movement of your feet, “Right goes thus, left goes thus” for about 10-20 minutes.
-b. Acknowledge, “Lifting treading,” for about 10-20 minutes.
-c. Acknowledge, lifting, moving, treading,“ for about 10-20 minutes.
-d. Acknowledge, “Heel up, lifting, moving, treading, for about 10-20 minutes.
+a. Acknowledge the movement of your feet, “Right goes thus, left goes thus” for about 10–20 minutes.
+b. Acknowledge, “Lifting treading,” for about 10–20 minutes.
+c. Acknowledge, “Lifting, moving, treading,” for about 10–20 minutes.
+d. Acknowledge, “Heel up, lifting, moving, treading,” for about 10–20 minutes.
 
 Exercise 5
 ----------
@@ -84,15 +84,15 @@ Exercise 5
 
 2. While reclining, acknowledge in four stages, viz. “Rising, falling, reclining, touching”.
 3. While standing, acknowledge your posture, “Standing, standing,”
-4. While performing the mindful walking, do as in Exercises 1,2,3 and 4 for about 10-20 minutes each, and then change the acknowledgement i.e. While advancing the right or left foot acknowledge the movements in five stages heel up, lifting, moving, dropping, treading“, for about 10-20 minutes.
+4. While performing the mindful walking, do as in Exercises 1,2,3 and 4 for about 10–20 minutes each, and then change the acknowledgement i.e. While advancing the right or left foot acknowledge the movements in five stages heel up, lifting, moving, dropping, treading“, for about 10–20 minutes.
 
 To Summarize :
 
-a. Acknowledge your movements in the mindful walking, “Right goes thus, left goes thus,” For about 10-20 minutes.
-b. Acknowledge, “Lifting, Treading,” for about 10-20 minutes.
-c. Acknowledge, “Lifting, moving, treading,” for about 10-20 minutes.
-d. Acknowledge, “Heel up, lifting, moving, treading,” for about 10-20 minutes.
-e. Acknowledge, “Heel up, lifting, moving, dropping treading,” for about 10-20 minutes.
+a. Acknowledge your movements in the mindful walking, “Right goes thus, left goes thus,” For about 10–20 minutes.
+b. Acknowledge, “Lifting, Treading,” for about 10–20 minutes.
+c. Acknowledge, “Lifting, moving, treading,” for about 10–20 minutes.
+d. Acknowledge, “Heel up, lifting, moving, treading,” for about 10–20 minutes.
+e. Acknowledge, “Heel up, lifting, moving, dropping treading,” for about 10–20 minutes.
 
 Exercise 6
 ------------
@@ -111,12 +111,12 @@ Exercise 6
 3. While standing, acknowledge your posture, “Standing, standing”.
 4. While performing the mindful walking, acknowledge the movements :
 
-   a. “Right goes thus, left goes thus,” for about 5-10 minutes.
-   b. “Lifing, treading,” for about 5-10 minutes.
-   c. “Lifing, moving, treading,” for about 5-10 minutes.
-   d. “Heel up lifting, moving, treading,” for about 5-10 minutes.
-   e. “Heel up lifting, moving, dropping treading,” for about 5-10 minutes.
-   f. Now acknowledge a further stage : “Heel up : lifting : moving : dropping : touching : pressing.” for about 10-20 minutes.
+   a. “Right goes thus, left goes thus,” for about 5–10 minutes.
+   b. “Lifing, treading,” for about 5–10 minutes.
+   c. “Lifing, moving, treading,” for about 5–10 minutes.
+   d. “Heel up lifting, moving, treading,” for about 5–10 minutes.
+   e. “Heel up lifting, moving, dropping treading,” for about 5–10 minutes.
+   f. Now acknowledge a further stage : “Heel up : lifting : moving : dropping : touching : pressing.” for about 10–20 minutes.
 
 Exercise 7
 ----------
@@ -188,7 +188,7 @@ Exercise 11
 Exercise 12
 -----------
 
-1. Before sitting down, acknowledge your thought, “Wishing to sit down.” Then lower yourself slowly in stages and acknowledge the action, “Sitting down” until you touch the floor. Do the acknowledgement in 8-9-10 steps.
+1. Before sitting down, acknowledge your thought, “Wishing to sit down.” Then lower yourself slowly in stages and acknowledge the action, “Sitting down” until you touch the floor. Do the acknowledgement in 8–9–10 steps.
 2. While acknowledging “Rising, falling, sitting, touching,” and an itch arises, acknowledge it, “Itching.” After the acknowledgement if the itch is still there and you want to scratch, acknowledge your desire “Wishing to scratch.” When your hand touches the spot, acknowledge the action, “Scratching.” When the itch disappears, acknowledge it, “disappearing,” and when you lower your hand from the spot, acknowledge your action, “Lowering,” until it is where it used to be. Then begin to concentrate on the rise and fall of the abdomen again and acknowledge your awareness, “Rising, falling, sitting, touching,”
 
 Exercise 13
@@ -199,6 +199,7 @@ Exercise 13
    “May I be clearly aware of the coming-into-being and passing-away of all mental and physical phenomena appearing to the mind during twenty-four hours.”
 
 Make this wish this whenever you wish, but spend at least twenty-four hours in meditation during this exercise.
+
 2. Having made the wish as above, perform the mindful walking first; then sit down and acknowledge the rising and falling of the abdomen, “Rising, falling, sitting, touching,” as described before. Perform the two exercise in alternation throughout the twenty-four hours.
 
 Exercise 14
@@ -208,7 +209,7 @@ Exercise 14
 
     a. Make a wish that in a period of one hour, the phenomena of arising and ceasing shall appear at least five times.
     b. If within this hour the phenomena of arising and ceasing appear distinctly, at least five times and possibly as many as sixty-five times reduce the period of the exercise to 30 minutes and make the wish that within these thirty minute the phenomena of arising and ceasing shall appear to you several times.
-    c. Make a wish in the same manner and reduce the period of the exercise down to 20-15-10-5 minutes. Within 5 minutes the phenomenon should appear at least twice, but it may appear as many as six times.
+    c. Make a wish in the same manner and reduce the period of the exercise down to 20–15–10–5 minutes. Within 5 minutes the phenomenon should appear at least twice, but it may appear as many as six times.
 
 2. Alternate Walking and sitting exercises for twenty-four hours.
 
@@ -216,7 +217,7 @@ Exercise 15
 -----------
 
 1. Perform the mindful walking first ; then in the sitting posture make a wish to attain steady concentration for 5 minutes. Next acknowledge “Rising, falling, sitting, touching,” etc. The resolution is fulfilled if the mind abides in concentration and becomes unconscious of outside phenomena for a 5 full minutes. Keep a careful check on the time and if this exercise cannot be continued for 5 minutes, repeat it until you are successful. Then try to increase the period of full concentration.
-2. Make a resolve to obtain steady concentration without consciousness of outside phenomena for 10 muinutes. If this cannot be achieved yet, try again until you are quite experienced. Then practise further for 15-20-30 minutes to 1 hour, one and a half hour, 2-3-4-5-6-7-8 hours, up to 24 hours.
+2. Make a resolve to obtain steady concentration without consciousness of outside phenomena for 10 muinutes. If this cannot be achieved yet, try again until you are quite experienced. Then practise further for 15–20–30 minutes to 1 hour, one and a half hour, 2–3–4–5–6–7–8 hours, up to 24 hours.
 3. The number of minutes and hours is to be reckoned from the point of steady concentration with nonconsciousness onwards. In such a condition, we do not experience any feeling. The period wished for being fulfilled, consciousness will return of its own accord as in waking, but this is not waking.
 
 Exercise 16
@@ -226,25 +227,25 @@ Practitioners who have become experienced in practice and would like to qualify 
 
 **First exercise,** to be done in one day.
 
-   1. Perform the mindful walking first, then sit as usual and resolve that within one hour the mental and physical states in the process of arising and ceasing shall appear distinctly. Acknowledge ilie awareness, “Rising, falling, sitting, touching”, etc. to complete one full hour. While acknowledging, you will perceive the arising ,md ceasing of the mental and physical states more distinctly than before. This insight knowledge is called Udyabbayanana.
+   1. Perform the mindful walking first, then sit as usual and resolve that within one hour the mental and physical states in the process of arising and ceasing shall appear distinctly. Acknowledge ilie awareness, “Rising, falling, sitting, touching”, etc. to complete one full hour. While acknowledging, you will perceive the arising ,md ceasing of the mental and physical states more distinctly than before. This insight knowledge is called Udyabbayañāṇa.
 
-   2. After this, resolve that within the succeeding hour only mental and physical states in cessation (or in their passing-away) shall be perceived. Then acknowledge the awareness, “Rising, lulling, sitting, touching,” etc. to complete one full hour. While acknowledging, only the passing-away of the mental and physical states will appear, that is, the cessation appears more distinctly than before. This insight is called Bhaṁmganana. XXX
+   2. After this, resolve that within the succeeding hour only mental and physical states in cessation (or in their passing-away) shall be perceived. Then acknowledge the awareness, “Rising, lulling, sitting, touching,” etc. to complete one full hour. While acknowledging, only the passing-away of the mental and physical states will appear, that is, the cessation appears more distinctly than before. This insight is called Bhaṃganñāṇa.
 
 **Second exercise,** to be done in one day.
 
-   1. Perform the mindful walking first, then sit as usual and resolve that within one hour the Bhayañāna shall arise in you. Acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While thus acknowledging, fear will arise in your mind. This insight knowledge is therefore known as Bhayañāna.
+   1. Perform the mindful walking first, then sit as usual and resolve that within one hour the Bhayañāna shall arise in you. Acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While thus acknowledging, fear will arise in your mind. This insight knowledge is therefore known as Bhayañāṇa.
 
-   2. In the succeeding hours, resolve that the Adinavanana shall arise, and acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While acknowledging in the sitting posture, there will arise all kinds of afflictions latent in the mental and physical states, such as pain, aching, impermanence, suffering, and anattā. This knowledge is known Adinavanana.
+   2. In the succeeding hours, resolve that the Adinavanana shall arise, and acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While acknowledging in the sitting posture, there will arise all kinds of afflictions latent in the mental and physical states, such as pain, aching, impermanence, suffering, and anattā. This knowledge is known Adinavañāṇa.
 
-   3. In the third successive hour resolve that the Nibbid āñāna shall arise. Acknowledge the awareness, “Rising, falling, sitting, touching,” to complete one full full hour. While acknowledging in the sitting posture there will arise revulsion, the mental and physical states appear to you as ugly refuse, full of afflictions and suffering, unpleasant and disgusting, This knowledge is called Nibbidāñāna.
+   3. In the third successive hour resolve that the Nibbid āñāna shall arise. Acknowledge the awareness, “Rising, falling, sitting, touching,” to complete one full full hour. While acknowledging in the sitting posture there will arise revulsion, the mental and physical states appear to you as ugly refuse, full of afflictions and suffering, unpleasant and disgusting, This knowledge is called Nibbidāñāṇa.
 
 **Third exercise,** to be done in one day.
 
-   1. Perform the mindful walking first ; then sit as usual and resolve that within this hour the Muñcitukamyatāñana shall arise. Acknowledge the perceptions “Rising, falling, sitting, touching”, to complete one full hour. While acknowledging in the sitting posture, there will arise a wish to retire, to escape into seclusion. This knowledge is known as Muñcitukamyatāñana.
+   1. Perform the mindful walking first ; then sit as usual and resolve that within this hour the Muñcitukamyatāñana shall arise. Acknowledge the perceptions “Rising, falling, sitting, touching”, to complete one full hour. While acknowledging in the sitting posture, there will arise a wish to retire, to escape into seclusion. This knowledge is known as Muñcitukamyatāñāṇa.
 
-   2. In the succeeding hour resolve that within this hour the Patisamkhañāna shall arise and acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While acknowledging in the sitting posture, there will arise an effort to use one's energy to seek detachment and to escape into seclusion. This knowledge is Patisamkhanñāna.
+   2. In the succeeding hour resolve that within this hour the Patisamkhañāna shall arise and acknowledge the perceptions, “Rising, falling, sitting, touching,” etc. to complete one full hour. While acknowledging in the sitting posture, there will arise an effort to use one's energy to seek detachment and to escape into seclusion. This knowledge is Patisamkhanñāṇa.
 
-   3. In the third successive hour resolve that within this hour the Sarnkharūpekkhañāna, shall arise and acknowledge the perceptions. “Rising, falling, sitting, touching,” etc., to complete one full hour. While acknowledging in this posture there will arise equanimity with regard to mental and physical states. This knowledge is know as Sarnkharūpekkhañāna.
+   3. In the third successive hour resolve that within this hour the Sarnkharūpekkhañāna, shall arise and acknowledge the perceptions. “Rising, falling, sitting, touching,” etc., to complete one full hour. While acknowledging in this posture there will arise equanimity with regard to mental and physical states. This knowledge is know as Sarnkharūpekkhañāṇa.
 
 
 ----------------------
@@ -283,7 +284,7 @@ Practitioners who have become experienced in practice and would like to qualify 
 
 **Q:** How long would it take to succeed in the practice of Insight meditation?
 
-**A:** If the practice is done continuously for 1 day 15 days 1 month, 2-3-4-5-6-7 months or 1-2-3-4-5-6-7 years one would succeed according to whether one's previous merits are strong or weak. The time specified is for the practitioners of medium previous merits. Those with great previous merits, when they practise in the morning, can succeed in the evening, and when they practise in the evening, can succeed in the morning according to the words of the commentator:
+**A:** If the practice is done continuously for 1 day 15 days 1 month, 2–3–4–5–6–7 months or 1–2–3–4–5–6–7 years one would succeed according to whether one's previous merits are strong or weak. The time specified is for the practitioners of medium previous merits. Those with great previous merits, when they practise in the morning, can succeed in the evening, and when they practise in the evening, can succeed in the morning according to the words of the commentator:
 
    *“Tikkhapaññam pana sandhāya pātova anusittho sayaṃ visesam adhigāissati   sāyam anusittho  pato   visesam adhigmissatiti vuttam”*
 

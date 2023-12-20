@@ -297,7 +297,7 @@ h. There may be a feeling of warmth all over the body,
 i. The meditator may feel as though he is covered by a net.
 j. Citta (mind or consciousness) and its object may disappear altogether.
 k. At first RUPA (material or physical) ceases, But Citta remains, however consciousness soon disappears as well as the object of consciousness.
-l. Some meditators feel that the rising and falling of the abdomen ceases for only a short time, while others feel that the movement stops for 2-4 days until they get bored. Walking is the best remedy for this.
+l. Some meditators feel that the rising and falling of the abdomen ceases for only a short time, while others feel that the movement stops for 2–4 days until they get bored. Walking is the best remedy for this.
 m. Upada, Thiti and Bhanga, that is the coming into being, continuity and passing away stages of both NAMA and RUPA are present but the meditator is not interested, observing only the stage of passing,
 n. The internal objects of meditation, that is the rising falling movements of the abdomen are not clear. External objects, trees etc. seem to shake,
 o. Everything gives the impression of looking at a field of fog, vague and obscure,
