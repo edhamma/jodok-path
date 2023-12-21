@@ -1,8 +1,6 @@
 # The Path to Nibbāna
 ## Phra Dhamma Theerarach Mahamuni (Ajahn Jodok)
 
-High-quality electronic edition of a great classic book.
-
 ## Get it!
 
 The book is produced in several formats:
