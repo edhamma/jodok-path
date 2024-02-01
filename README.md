@@ -14,6 +14,6 @@ The book is produced in several formats:
 
 ## How to help
 
-The source of the e-book is hosted at https://github.com/edhammajodok-path. You are welcome to create pull requests to fix any mistakes (be it small typos or anything more substantial). Once the pull request is accepted by me, the e-book(s) at github.io will be updated automatically within minutes.
+The source of the e-book is hosted at https://github.com/edhamma/jodok-path. You are welcome to create pull requests to fix any mistakes (be it small typos or anything more substantial). Once the pull request is accepted by me, the e-book(s) at github.io will be updated automatically within minutes.
 
 ![cover](_static/cover.jpg)
