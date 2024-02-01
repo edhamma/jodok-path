@@ -6,7 +6,9 @@ The Path to Nibbāna
 
    .. note:: 
 
-      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/edhamma/cfitness>`__.
+      Other formats (PDF, HTML, ePub) available from `github.com/edhamma/jodok-path <https://github.com/edhamma/jodok-path>`__.
+
+      This file was build on |today|, rev. |version| / git |release| of `the source <https://github.com/edhamma/jodok-path>`__.
 
 
 
