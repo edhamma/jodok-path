@@ -1,21 +1,17 @@
+.. role:: thai
+
+
 Front
 -------
 
-
-.. hack: abuse code as indication for Thai in LaTeX
-
-.. raw:: latex
-
-   \let\sphinxcode\textthai
-   \newfontfamily\thaifont[Script=Thai]{Norasi}
 
 .. figure:: _static/portrait.jpg
 
    The Ven. Phra Dhamma Theerarach Mahamuni
 
-   ``พระธรรมธีรราชมหามุนี (โชดก ญาณสิทฺธิเถร ส.ธ.๙)``
+   :thai:`พระธรรมธีรราชมหามุนี (โชดก ญาณสิทฺธิเถร ส.ธ.๙)`
 
-   ``พระอาจารย์าใหญ่ฝ่ายวิปัสสนาธุระ``
+   :thai:`พระอาจารย์าใหญ่ฝ่ายวิปัสสนาธุระ`
 
 
 

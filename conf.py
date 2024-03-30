@@ -176,8 +176,10 @@ latex_elements = {
           \fancyhead{}
           \renewcommand{\headrulewidth}{0pt}
         }
-        \setotherlanguage{thai}
         \makeatother
+        \setotherlanguage{thai}
+        \newfontfamily\thaifont[Script=Thai]{Norasi}
+        \newcommand{\DUrolethai}[1]{\textthai{#1}}
         % \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
         \usepackage[numbered]{bookmark}
         \iffalse  \let\frontmatter\relax \let\mainmatter\relax \let\backmatter\relax \fi
