@@ -270,7 +270,7 @@ b. The rising and falling of the abdomen may disappear intermittently.
 c. Various feelings disappear after two or three acknowledgements.
 d. Acknowledgement is clear and easy.
 e. Nimittas disappear quickly, for instance after a   few acknowledgements of 'seeing, seeing'.
-f. I f. The meditator may see a clear, bright light.
+f. The meditator may see a clear, bright light.
 g. The beginning and the end of the rising and falling movements of the abdomen are clearly perceived.
 h. While sitting, the body may bend either forwards or backwards as though falling asleep. The extent of the movement depends on the level of concentration. The breaking of 'Santati' or continuity can be observed by the expression of the following characteristics :
 
