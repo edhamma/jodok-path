@@ -10,7 +10,7 @@ jobs:
         run: |
           # Norasi fonts for Thai
           sudo apt-get update && sudo apt-get install texlive-latex-recommended texlive-latex-extra texlive-luatex fonts-texgyre latexmk fonts-tlwg-norasi-ttf
-          pip install sphinx sphinxcontrib-fulltoc
+          pip install sphinx sphinx-book-theme
       - name: Build E-Books 🔧
         run: |
           make html
