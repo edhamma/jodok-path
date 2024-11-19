@@ -1,0 +1,344 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="jodok-path-to-nibbana"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Path to Nibbana</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>The Path to Nibbāna</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Front</text>
+      </navLabel>
+      <content src="front.xhtml" />  
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Front</text>
+        </navLabel>
+        <content src="front.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>Foreword to the English Translation</text>
+        </navLabel>
+        <content src="front.xhtml#foreword-to-the-english-translation" />  
+      </navPoint>
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>Translator’s Introduction</text>
+        </navLabel>
+        <content src="front.xhtml#translator-s-introduction" />  
+      </navPoint>
+      <navPoint id="navPoint6" playOrder="5">
+        <navLabel>
+          <text>Foreword to the 3rd Edition</text>
+        </navLabel>
+        <content src="front.xhtml#foreword-to-the-3rd-edition" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint7" playOrder="6">
+      <navLabel>
+        <text>The Path</text>
+      </navLabel>
+      <content src="path.xhtml" />  
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>The Path</text>
+        </navLabel>
+        <content src="path.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>(Path)</text>
+        </navLabel>
+        <content src="path.xhtml#path" />  
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>Questions and Answers</text>
+        </navLabel>
+        <content src="path.xhtml#questions-and-answers" />  
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>Advice to the Practitioner</text>
+        </navLabel>
+        <content src="path.xhtml#advice-to-the-practitioner" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint12" playOrder="10">
+      <navLabel>
+        <text>How to Practise Meditation</text>
+      </navLabel>
+      <content src="practice.xhtml" />  
+      <navPoint id="navPoint13" playOrder="10">
+        <navLabel>
+          <text>How to Practise Meditation</text>
+        </navLabel>
+        <content src="practice.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="11">
+        <navLabel>
+          <text>Exercise 1</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-1" />  
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="12">
+        <navLabel>
+          <text>Exercise 2</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-2" />  
+      </navPoint>
+      <navPoint id="navPoint16" playOrder="13">
+        <navLabel>
+          <text>Exercise 3</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-3" />  
+      </navPoint>
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>Exercise 4</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-4" />  
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
+          <text>Exercise 5</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-5" />  
+      </navPoint>
+      <navPoint id="navPoint19" playOrder="16">
+        <navLabel>
+          <text>Exercise 6</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-6" />  
+      </navPoint>
+      <navPoint id="navPoint20" playOrder="17">
+        <navLabel>
+          <text>Exercise 7</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-7" />  
+      </navPoint>
+      <navPoint id="navPoint21" playOrder="18">
+        <navLabel>
+          <text>Exercise 8</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-8" />  
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="19">
+        <navLabel>
+          <text>Exercise 9</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-9" />  
+      </navPoint>
+      <navPoint id="navPoint23" playOrder="20">
+        <navLabel>
+          <text>Exercise 10</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-10" />  
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="21">
+        <navLabel>
+          <text>Exercise 11</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-11" />  
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="22">
+        <navLabel>
+          <text>Exercise 12</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-12" />  
+      </navPoint>
+      <navPoint id="navPoint26" playOrder="23">
+        <navLabel>
+          <text>Exercise 13</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-13" />  
+      </navPoint>
+      <navPoint id="navPoint27" playOrder="24">
+        <navLabel>
+          <text>Exercise 14</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-14" />  
+      </navPoint>
+      <navPoint id="navPoint28" playOrder="25">
+        <navLabel>
+          <text>Exercise 15</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-15" />  
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="26">
+        <navLabel>
+          <text>Exercise 16</text>
+        </navLabel>
+        <content src="practice.xhtml#exercise-16" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="27">
+        <navLabel>
+          <text>Translator’s note</text>
+        </navLabel>
+        <content src="practice.xhtml#translator-s-note" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint31" playOrder="28">
+      <navLabel>
+        <text>Manual for checking your vipassana kamatthana progress</text>
+      </navLabel>
+      <content src="progress.xhtml" />  
+      <navPoint id="navPoint32" playOrder="28">
+        <navLabel>
+          <text>Manual for checking your vipassana kamatthana progress</text>
+        </navLabel>
+        <content src="progress.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint33" playOrder="29">
+        <navLabel>
+          <text>Nāmarupa pariccheda Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#namarupa-pariccheda-nana" />  
+      </navPoint>
+      <navPoint id="navPoint34" playOrder="30">
+        <navLabel>
+          <text>Paccaya pariggaha Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#paccaya-pariggaha-nana" />  
+      </navPoint>
+      <navPoint id="navPoint35" playOrder="31">
+        <navLabel>
+          <text>Sammasana Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#sammasana-nana" />  
+        <navPoint id="navPoint36" playOrder="31">
+          <navLabel>
+            <text>Sammasana Ñana</text>
+          </navLabel>
+          <content src="progress.xhtml#sammasana-nana" />  
+        </navPoint>
+        <navPoint id="navPoint37" playOrder="32">
+          <navLabel>
+            <text>The Ten Vipassanupakilesas</text>
+          </navLabel>
+          <content src="progress.xhtml#the-ten-vipassanupakilesas" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint38" playOrder="33">
+        <navLabel>
+          <text>Udayabbaya Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#udayabbaya-nana" />  
+      </navPoint>
+      <navPoint id="navPoint39" playOrder="34">
+        <navLabel>
+          <text>Bhanga Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#bhanga-nana" />  
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="35">
+        <navLabel>
+          <text>Bhaya Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#bhaya-nana" />  
+      </navPoint>
+      <navPoint id="navPoint41" playOrder="36">
+        <navLabel>
+          <text>Ādīnava Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#adinava-nana" />  
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="37">
+        <navLabel>
+          <text>Nibbida Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#nibbida-nana" />  
+      </navPoint>
+      <navPoint id="navPoint43" playOrder="38">
+        <navLabel>
+          <text>Muncitukamayatā Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#muncitukamayata-nana" />  
+      </navPoint>
+      <navPoint id="navPoint44" playOrder="39">
+        <navLabel>
+          <text>Patisankhā Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#patisankha-nana" />  
+      </navPoint>
+      <navPoint id="navPoint45" playOrder="40">
+        <navLabel>
+          <text>Sankhārupekhā Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#sankharupekha-nana" />  
+      </navPoint>
+      <navPoint id="navPoint46" playOrder="41">
+        <navLabel>
+          <text>Anuloma Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#anuloma-nana" />  
+        <navPoint id="navPoint47" playOrder="41">
+          <navLabel>
+            <text>Anuloma Ñana</text>
+          </navLabel>
+          <content src="progress.xhtml#anuloma-nana" />  
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="42">
+          <navLabel>
+            <text>The Four Noble Truths</text>
+          </navLabel>
+          <content src="progress.xhtml#the-four-noble-truths" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint49" playOrder="43">
+        <navLabel>
+          <text>Gotrabhu Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#gotrabhu-nana" />  
+      </navPoint>
+      <navPoint id="navPoint50" playOrder="44">
+        <navLabel>
+          <text>Magga Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#magga-nana" />  
+      </navPoint>
+      <navPoint id="navPoint51" playOrder="45">
+        <navLabel>
+          <text>Phala Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#phala-nana" />  
+      </navPoint>
+      <navPoint id="navPoint52" playOrder="46">
+        <navLabel>
+          <text>Paccavekkhana Ñana</text>
+        </navLabel>
+        <content src="progress.xhtml#paccavekkhana-nana" />  
+      </navPoint>
+      <navPoint id="navPoint53" playOrder="47">
+        <navLabel>
+          <text>SAMAPATI or Vipassana Trance</text>
+        </navLabel>
+        <content src="progress.xhtml#samapati-or-vipassana-trance" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint54" playOrder="48">
+      <navLabel>
+        <text>An appreciation of Phra Dhamma Theerarach Mahamuni and his teachings</text>
+      </navLabel>
+      <content src="appreciation.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint55" playOrder="49">
+      <navLabel>
+        <text>Announcement of Passing Away</text>
+      </navLabel>
+      <content src="death.xhtml" />  
+    </navPoint>
+  </navMap>
+</ncx>

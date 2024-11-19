@@ -1,0 +1,59 @@
+\selectlanguage *{english}
+\contentsline {chapter}{Front}{i}{chapter*.3}%
+\contentsline {section}{\numberline {1 }Foreword to the English Translation}{iii}{section.0.1}%
+\contentsline {section}{\numberline {2 }Translator’s Introduction}{iv}{section.0.2}%
+\contentsline {section}{\numberline {3 }Foreword to the 3rd Edition}{v}{section.0.3}%
+\contentsline {chapter}{\numberline {1}The Path}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}(Path)}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Questions and Answers}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Advice to the Practitioner}{8}{section.1.3}%
+\contentsline {chapter}{\numberline {2}How to Practise Meditation}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Exercise 1}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Exercise 2}{14}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Exercise 3}{15}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Exercise 4}{16}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Exercise 5}{16}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Exercise 6}{17}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Exercise 7}{18}{section.2.7}%
+\contentsline {section}{\numberline {2.8}Exercise 8}{20}{section.2.8}%
+\contentsline {section}{\numberline {2.9}Exercise 9}{20}{section.2.9}%
+\contentsline {section}{\numberline {2.10}Exercise 10}{21}{section.2.10}%
+\contentsline {section}{\numberline {2.11}Exercise 11}{21}{section.2.11}%
+\contentsline {section}{\numberline {2.12}Exercise 12}{22}{section.2.12}%
+\contentsline {section}{\numberline {2.13}Exercise 13}{22}{section.2.13}%
+\contentsline {section}{\numberline {2.14}Exercise 14}{23}{section.2.14}%
+\contentsline {section}{\numberline {2.15}Exercise 15}{23}{section.2.15}%
+\contentsline {section}{\numberline {2.16}Exercise 16}{24}{section.2.16}%
+\contentsline {section}{\numberline {2.17}Translator’s note}{28}{section.2.17}%
+\contentsline {chapter}{\numberline {3}Manual for checking your vipassana kamatthana progress}{29}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Nāmarupa pariccheda Ñana}{29}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Paccaya pariggaha Ñana}{30}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Sammasana Ñana}{31}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}The Ten Vipassanupakilesas}{32}{subsection.3.3.1}%
+\contentsline {subsubsection}{OBHASA (Illumination)}{32}{subsubsection*.5}%
+\contentsline {subsubsection}{PĪTI (Joy or rapture)}{32}{subsubsection*.6}%
+\contentsline {subsubsection}{PASSADHI}{35}{subsubsection*.7}%
+\contentsline {subsubsection}{SUKHA}{35}{subsubsection*.8}%
+\contentsline {subsubsection}{SADDHĀ}{36}{subsubsection*.9}%
+\contentsline {subsubsection}{PAGGAHA}{37}{subsubsection*.10}%
+\contentsline {subsubsection}{UPATTHANA}{37}{subsubsection*.11}%
+\contentsline {subsubsection}{ÑANA}{37}{subsubsection*.12}%
+\contentsline {subsubsection}{UPEKKHÂ}{38}{subsubsection*.13}%
+\contentsline {subsubsection}{NIKANTI}{38}{subsubsection*.14}%
+\contentsline {section}{\numberline {3.4}Udayabbaya Ñana}{38}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Bhanga Ñana}{39}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Bhaya Ñana}{41}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Ādīnava Ñana}{41}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Nibbida Ñana}{42}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Muncitukamayatā Ñana}{43}{section.3.9}%
+\contentsline {section}{\numberline {3.10}Patisankhā Ñana}{43}{section.3.10}%
+\contentsline {section}{\numberline {3.11}Sankhārupekhā Ñana}{44}{section.3.11}%
+\contentsline {section}{\numberline {3.12}Anuloma Ñana}{45}{section.3.12}%
+\contentsline {subsection}{\numberline {3.12.1}The Four Noble Truths}{46}{subsection.3.12.1}%
+\contentsline {section}{\numberline {3.13}Gotrabhu Ñana}{47}{section.3.13}%
+\contentsline {section}{\numberline {3.14}Magga Ñana}{48}{section.3.14}%
+\contentsline {section}{\numberline {3.15}Phala Ñana}{49}{section.3.15}%
+\contentsline {section}{\numberline {3.16}Paccavekkhana Ñana}{50}{section.3.16}%
+\contentsline {section}{\numberline {3.17}SAMAPATI or Vipassana Trance}{51}{section.3.17}%
+\contentsline {chapter}{\numberline {A}An appreciation of Phra Dhamma Theerarach Mahamuni and his teachings}{53}{appendix.A}%
+\contentsline {chapter}{\numberline {B}Announcement of Passing Away}{61}{appendix.B}%
