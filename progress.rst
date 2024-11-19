@@ -359,7 +359,7 @@ d. He feels uneasy, restless and bored.
 e. He wishes to get away and give up meditation.
 f. Some meditators think of returning home, because they feel that their Parami (accumulated past merit) has been insufficient. As a result they start preparing their belongings to go home. In the early days this was termed 'The Ñana of rolling the mat.'
 
-Parisankhā Ñana
+Patisankhā Ñana
 ------------------
 
 The tenth ÑANA to be considered here is PATISANKHA ÑANA or the 'Knowledge of reflective contemplation.' The following characteristics may be observed :-
